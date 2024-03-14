@@ -1,0 +1,58 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.freelance-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.freelance-header-h1 {
+    color: white;
+    text-shadow: 
+    1px 1px 0 black,
+    2px 2px 0 black,
+    3px 3px 0 black;
+}
+
+.freelance-header-p {
+    font-weight: 400px;
+    font-size: 30px;
+}
+
+.freelance-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+
+.freelance-main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.name-div {
+    margin: 50px;
+}
+
+.occupation-div {
+    margin: 50px;
+}
+
+.price-div {
+    margin: 50px;
+}
+
+.freelance-main-h1 {
+    color: white;
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
